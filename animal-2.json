@@ -1,0 +1,15 @@
+[{
+“name”: "Elephant",
+“species”: "mamal",
+“favFood”: "grass"
+}, 
+{
+“name”: "Monkey",
+“species”: "Key",
+“favFood”: "Fruits"
+},
+{
+“name”: "Snake",
+“species”: "Reptile",
+“favFood”: "Rat"
+}];
