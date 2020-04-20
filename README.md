@@ -1,2 +1,2 @@
 # snippet
-It will have a good collection of codes
+Here, we have json file of animals for practice.
